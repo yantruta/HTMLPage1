@@ -1,0 +1,15 @@
+C:\Users\yangu\source\repos\trabalho\trabalho\bin\Debug\trabalho.exe.config
+C:\Users\yangu\source\repos\trabalho\trabalho\bin\Debug\trabalho.exe
+C:\Users\yangu\source\repos\trabalho\trabalho\bin\Debug\trabalho.pdb
+C:\Users\yangu\source\repos\trabalho\trabalho\obj\Debug\trabalho.csprojAssemblyReference.cache
+C:\Users\yangu\source\repos\trabalho\trabalho\obj\Debug\MainWindow.g.cs
+C:\Users\yangu\source\repos\trabalho\trabalho\obj\Debug\App.g.cs
+C:\Users\yangu\source\repos\trabalho\trabalho\obj\Debug\trabalho_MarkupCompile.cache
+C:\Users\yangu\source\repos\trabalho\trabalho\obj\Debug\trabalho_MarkupCompile.lref
+C:\Users\yangu\source\repos\trabalho\trabalho\obj\Debug\MainWindow.baml
+C:\Users\yangu\source\repos\trabalho\trabalho\obj\Debug\trabalho.g.resources
+C:\Users\yangu\source\repos\trabalho\trabalho\obj\Debug\trabalho.Properties.Resources.resources
+C:\Users\yangu\source\repos\trabalho\trabalho\obj\Debug\trabalho.csproj.GenerateResource.cache
+C:\Users\yangu\source\repos\trabalho\trabalho\obj\Debug\trabalho.csproj.CoreCompileInputs.cache
+C:\Users\yangu\source\repos\trabalho\trabalho\obj\Debug\trabalho.exe
+C:\Users\yangu\source\repos\trabalho\trabalho\obj\Debug\trabalho.pdb
